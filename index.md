@@ -1,6 +1,6 @@
 # Tri Tran
 
-<img src="IMG_0246.jpg" alt="Pic of me" width=auto height="300"> 
+<!-- <img src="IMG_0246.jpg" alt="Pic of me" width=auto height="300">  -->
 ![pic of me](IMG_0246.jpg =autox300)
 
 ## About Me 
